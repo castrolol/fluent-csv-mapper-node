@@ -1,5 +1,5 @@
 {
-  "name": "fluent-csv-mapper-node",
+  "name": "csv-fluent-mapper",
   "version": "1.0.0",
   "main": "dist/index.js",
   "repository": "git@github.com:castrolol/fluent-csv-mapper-node.git",
